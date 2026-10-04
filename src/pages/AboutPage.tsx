@@ -29,7 +29,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onNavigate }) => {
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
           <div className="lg:col-span-2 aspect-[16/9] lg:aspect-auto bg-[#ffffff] border border-[#e5e3dc] overflow-hidden shadow-sm">
             <img
-              src="/Images/700740227_18046266803785194_68359887164937934_n.jpg"
+              src="Images/700740227_18046266803785194_68359887164937934_n.jpg"
               alt="Commute Atelier Studio"
               className="w-full h-full object-cover"
             />

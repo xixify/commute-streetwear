@@ -38,9 +38,9 @@ export const PRODUCTS: Product[] = [
     ],
     sizes: ['S', 'M', 'L', 'XL', 'XXL'],
     images: [
-      '/Images/700740227_18046266803785194_68359887164937934_n.jpg',
-      '/Images/688021048_18045594275785194_5710366581933748412_n.jpg',
-      '/Images/636009027_18034757891785194_6131245554875701596_n.jpg'
+      'Images/700740227_18046266803785194_68359887164937934_n.jpg',
+      'Images/688021048_18045594275785194_5710366581933748412_n.jpg',
+      'Images/636009027_18034757891785194_6131245554875701596_n.jpg'
     ],
     description: 'Engineered for daily urban movement. Features custom COMMUTE rear typographic print, dropped shoulder silhouette, and reinforced ribbed collar. Pre-shrunk custom weave.',
     gsm: '280 GSM Combed Organic Cotton',
@@ -70,9 +70,9 @@ export const PRODUCTS: Product[] = [
     ],
     sizes: ['M', 'L', 'XL', 'XXL'],
     images: [
-      '/Images/636009027_18034757891785194_6131245554875701596_n.jpg',
-      '/Images/686606255_18045436628785194_6293734523224567022_n.jpg',
-      '/Images/701495763_18046518320785194_4400771909126757418_n.jpg'
+      'Images/636009027_18034757891785194_6131245554875701596_n.jpg',
+      'Images/686606255_18045436628785194_6293734523224567022_n.jpg',
+      'Images/701495763_18046518320785194_4400771909126757418_n.jpg'
     ],
     description: 'Ultra-heavy 450 GSM French Terry cotton hoodie with double-layer structured hood and subtle tonal silicone branding on front chest.',
     gsm: '450 GSM Ultra-Heavyweight French Terry',
@@ -102,9 +102,9 @@ export const PRODUCTS: Product[] = [
     ],
     sizes: ['S', 'M', 'L', 'XL'],
     images: [
-      '/Images/701495763_18046518320785194_4400771909126757418_n.jpg',
-      '/Images/598581739_18027027101785194_673176336095704335_n.jpg',
-      '/Images/700169476_18046003397785194_424452020238058406_n.jpg'
+      'Images/701495763_18046518320785194_4400771909126757418_n.jpg',
+      'Images/598581739_18027027101785194_673176336095704335_n.jpg',
+      'Images/700169476_18046003397785194_424452020238058406_n.jpg'
     ],
     description: 'Clean luxury aesthetic inspired by European urban uniform design. High-density embroidered logo across chest with ribbed cuffs and hem.',
     gsm: '400 GSM Heavyweight Loopback Fleece',
@@ -132,9 +132,9 @@ export const PRODUCTS: Product[] = [
     ],
     sizes: ['S', 'M', 'L', 'XL'],
     images: [
-      '/Images/700169476_18046003397785194_424452020238058406_n.jpg',
-      '/Images/714610436_18048806609785194_4446470819008697431_n.jpg',
-      '/Images/634784251_18035005097785194_2781208136069599641_n.jpg'
+      'Images/700169476_18046003397785194_424452020238058406_n.jpg',
+      'Images/714610436_18048806609785194_4446470819008697431_n.jpg',
+      'Images/634784251_18035005097785194_2781208136069599641_n.jpg'
     ],
     description: 'Multi-pocket parachute canvas trousers with adjustable hem drawstrings, articulated knee darts, and water-repellent finish for commute weather.',
     gsm: '260 GSM Ripstop Canvas',
@@ -163,9 +163,9 @@ export const PRODUCTS: Product[] = [
     ],
     sizes: ['M', 'L', 'XL'],
     images: [
-      '/Images/634784251_18035005097785194_2781208136069599641_n.jpg',
-      '/Images/591167934_18026433338785194_8001990465308318093_n.jpg',
-      '/Images/591141623_18025438829785194_2315208716052989970_n.jpg'
+      'Images/634784251_18035005097785194_2781208136069599641_n.jpg',
+      'Images/591167934_18026433338785194_8001990465308318093_n.jpg',
+      'Images/591141623_18025438829785194_2315208716052989970_n.jpg'
     ],
     description: 'Architectural outerwear piece featuring heavy raw denim, distressed accents, dual-way matte black YKK metal zipper, and hidden tech pockets.',
     gsm: '14 oz Heavyweight Rigid Denim',
@@ -193,9 +193,9 @@ export const PRODUCTS: Product[] = [
     ],
     sizes: ['S', 'M', 'L', 'XL', 'XXL'],
     images: [
-      '/Images/591141623_18025438829785194_2315208716052989970_n.jpg',
-      '/Images/635771777_18034735625785194_5461931106032739367_n.jpg',
-      '/Images/587806725_18027267677785194_817095884676047356_n.jpg'
+      'Images/591141623_18025438829785194_2315208716052989970_n.jpg',
+      'Images/635771777_18034735625785194_5461931106032739367_n.jpg',
+      'Images/587806725_18027267677785194_817095884676047356_n.jpg'
     ],
     description: 'Individually hand-dyed acid wash tee with subtle distress detailing on sleeve hems. No two pieces are completely identical.',
     gsm: '270 GSM Heavyweight Jersey',
@@ -222,9 +222,9 @@ export const PRODUCTS: Product[] = [
     ],
     sizes: ['M', 'L', 'XL'],
     images: [
-      '/Images/587806725_18027267677785194_817095884676047356_n.jpg',
-      '/Images/592460022_18026742872785194_7742904155201854238_n.jpg',
-      '/Images/591123441_18025929899785194_2311687140685625912_n.jpg'
+      'Images/587806725_18027267677785194_817095884676047356_n.jpg',
+      'Images/592460022_18026742872785194_7742904155201854238_n.jpg',
+      'Images/591123441_18025929899785194_2311687140685625912_n.jpg'
     ],
     description: 'Hybrid zip hoodie and lightweight bomber layer. Double-ended zip closure with custom engraved COMMUTE pull tab.',
     gsm: '420 GSM Terry Fleece',
@@ -252,9 +252,9 @@ export const PRODUCTS: Product[] = [
     ],
     sizes: ['S', 'M', 'L', 'XL'],
     images: [
-      '/Images/591123441_18025929899785194_2311687140685625912_n.jpg',
-      '/Images/495792496_18000955763785194_6843194416252522730_n.jpg',
-      '/Images/551311808_18017032739785194_3681695216227474174_n.jpg'
+      'Images/591123441_18025929899785194_2311687140685625912_n.jpg',
+      'Images/495792496_18000955763785194_6843194416252522730_n.jpg',
+      'Images/551311808_18017032739785194_3681695216227474174_n.jpg'
     ],
     description: 'Heavy fleece sweatpants with deep zipper security pockets and elasticized waist with custom metal aglet drawstrings.',
     gsm: '380 GSM Heavy Fleece',
@@ -282,8 +282,8 @@ export const PRODUCTS: Product[] = [
     ],
     sizes: ['M', 'L'],
     images: [
-      '/Images/551311808_18017032739785194_3681695216227474174_n.jpg',
-      '/Images/552033163_18017358329785194_4315901684107743802_n.jpg'
+      'Images/551311808_18017032739785194_3681695216227474174_n.jpg',
+      'Images/552033163_18017358329785194_4315901684107743802_n.jpg'
     ],
     description: '6-panel dad cap crafted from washed twill cotton with 3D raised embroidery logo on crown and antique brass strap buckle.',
     gsm: '100% Heavy Twill Cotton',
@@ -310,8 +310,8 @@ export const PRODUCTS: Product[] = [
     ],
     sizes: ['L'],
     images: [
-      '/Images/640260001_122190841928542549_7334197571696768160_n.jpg',
-      '/Images/701681578_18046501448785194_4534141943983685466_n.jpg'
+      'Images/640260001_122190841928542549_7334197571696768160_n.jpg',
+      'Images/701681578_18046501448785194_4534141943983685466_n.jpg'
     ],
     description: 'Reinforced 18 oz duck canvas carryall with padded laptop compartment (fits up to 16" MacBook Pro), key leash, and external bottle pocket.',
     gsm: '18 oz Heavyweight Duck Canvas',
@@ -328,7 +328,7 @@ export const PRODUCTS: Product[] = [
 export const INSTAGRAM_POSTS = [
   {
     id: 'insta-1',
-    image: '/Images/700740227_18046266803785194_68359887164937934_n.jpg',
+    image: 'Images/700740227_18046266803785194_68359887164937934_n.jpg',
     likes: '1,420',
     comments: '89',
     caption: 'COMMUTE // Drop 04 "Urban Uniform" live now. Heavyweight boxy silhouettes engineered for daily movement.',
@@ -336,7 +336,7 @@ export const INSTAGRAM_POSTS = [
   },
   {
     id: 'insta-2',
-    image: '/Images/688021048_18045594275785194_5710366581933748412_n.jpg',
+    image: 'Images/688021048_18045594275785194_5710366581933748412_n.jpg',
     likes: '2,105',
     comments: '134',
     caption: 'Details matter. 280 GSM combed cotton with high-density silicone typography on pitch black.',
@@ -344,7 +344,7 @@ export const INSTAGRAM_POSTS = [
   },
   {
     id: 'insta-3',
-    image: '/Images/636009027_18034757891785194_6131245554875701596_n.jpg',
+    image: 'Images/636009027_18034757891785194_6131245554875701596_n.jpg',
     likes: '1,890',
     comments: '92',
     caption: '450 GSM French Terry Fleece. Structured hood drape designed for street weather.',
@@ -352,7 +352,7 @@ export const INSTAGRAM_POSTS = [
   },
   {
     id: 'insta-4',
-    image: '/Images/701495763_18046518320785194_4400771909126757418_n.jpg',
+    image: 'Images/701495763_18046518320785194_4400771909126757418_n.jpg',
     likes: '3,450',
     comments: '210',
     caption: 'The Raw Sand Monogram Crewneck. Minimalist luxury crafted for daily commuting.',
@@ -360,7 +360,7 @@ export const INSTAGRAM_POSTS = [
   },
   {
     id: 'insta-5',
-    image: '/Images/700169476_18046003397785194_424452020238058406_n.jpg',
+    image: 'Images/700169476_18046003397785194_424452020238058406_n.jpg',
     likes: '1,760',
     comments: '78',
     caption: 'Tactical parachute bottoms with adjustable hem flares. Streetwear meets functional utility.',
@@ -368,7 +368,7 @@ export const INSTAGRAM_POSTS = [
   },
   {
     id: 'insta-6',
-    image: '/Images/714610436_18048806609785194_4446470819008697431_n.jpg',
+    image: 'Images/714610436_18048806609785194_4446470819008697431_n.jpg',
     likes: '2,980',
     comments: '165',
     caption: 'Street snap by @commute.co in the city. Tag us to be featured in our monthly lookbook.',

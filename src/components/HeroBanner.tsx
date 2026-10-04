@@ -9,17 +9,17 @@ interface HeroBannerProps {
 export const HeroBanner: React.FC<HeroBannerProps> = ({ onShopClick }) => {
   const heroSlides = [
     {
-      img: '/Images/701495763_18046518320785194_4400771909126757418_n.jpg',
+      img: 'Images/701495763_18046518320785194_4400771909126757418_n.jpg',
       title: 'RAW SAND MONOGRAM CREWNECK',
       subtitle: 'Heavyweight 400 GSM Loopback Fleece'
     },
     {
-      img: '/Images/700169476_18046003397785194_424452020238058406_n.jpg',
+      img: 'Images/700169476_18046003397785194_424452020238058406_n.jpg',
       title: 'PARACHUTE CARGO TROUSERS',
       subtitle: '260 GSM Ripstop Canvas Tech Flare'
     },
     {
-      img: '/Images/714610436_18048806609785194_4446470819008697431_n.jpg',
+      img: 'Images/714610436_18048806609785194_4446470819008697431_n.jpg',
       title: 'URBAN UNIFORM SILHOUETTES',
       subtitle: '450 GSM French Terry Boxy Fit'
     }

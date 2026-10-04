@@ -8,17 +8,17 @@ interface LookbookProps {
 export const Lookbook: React.FC<LookbookProps> = ({ onShopClick }) => {
   const editorialImages = [
     {
-      img: '/Images/688021048_18045594275785194_5710366581933748412_n.jpg',
+      img: 'Images/688021048_18045594275785194_5710366581933748412_n.jpg',
       title: 'LOOK 01 // OVERSIZED GRAPHIC SILHOUETTE',
       category: 'HEAVYWEIGHT TEES'
     },
     {
-      img: '/Images/636009027_18034757891785194_6131245554875701596_n.jpg',
+      img: 'Images/636009027_18034757891785194_6131245554875701596_n.jpg',
       title: 'LOOK 02 // 450 GSM FRENCH TERRY FLEECE',
       category: 'HOODIES'
     },
     {
-      img: '/Images/701495763_18046518320785194_4400771909126757418_n.jpg',
+      img: 'Images/701495763_18046518320785194_4400771909126757418_n.jpg',
       title: 'LOOK 03 // RAW SAND MONOGRAM CREWNECK',
       category: 'CREWNECKS'
     }

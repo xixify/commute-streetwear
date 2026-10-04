@@ -106,7 +106,7 @@ export const HomePage: React.FC<HomePageProps> = ({
             
             <div className="relative aspect-[4/5] bg-[#ffffff] border border-[#e5e3dc] overflow-hidden group shadow-md">
               <img
-                src="/Images/686606255_18045436628785194_6293734523224567022_n.jpg"
+                src="Images/686606255_18045436628785194_6293734523224567022_n.jpg"
                 alt="Commute Brand Philosophy"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
               />
